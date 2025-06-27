@@ -1,0 +1,2 @@
+python -u "d:\python\Assignment4\Task2.py"
+python -u "d:\python\Assignment4\Task2.py"
